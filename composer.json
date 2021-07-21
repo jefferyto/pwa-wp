@@ -12,7 +12,7 @@
     "civicrm/composer-downloads-plugin": "^3.0",
     "dealerdirect/phpcodesniffer-composer-installer": "0.7.1",
     "phpcompatibility/phpcompatibility-wp": "2.1.1",
-    "php-stubs/wordpress-stubs": "^5.3.2",
+    "php-stubs/wordpress-stubs": "^5.8.0",
     "phpunit/phpunit": "^5.7 || ^6.5 || ^7.5",
     "wp-coding-standards/wpcs": "2.3.0"
   },
